@@ -44,7 +44,7 @@ Create personalized birthday wishes with style and ease! This project allows you
 
 ## Live Demo
 
-Check out the demo: [https://player997.github.io/Birthday-Wish/inex.html](https://player997.github.io/Birthday-Wish/index.html)
+Check out the demo: [https://player997.github.io/Birthday-Wish/index.html](https://player997.github.io/Birthday-Wish/index.html)
 
 ## Technologies Used
 
