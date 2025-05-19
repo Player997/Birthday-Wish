@@ -1,7 +1,3 @@
-Sure! Here's a customized `README.md` file for your GitHub project under your username `player997`:
-
----
-
 # Birthday Wishes
 
 Create personalized birthday wishes with style and ease! This project allows you to create and deploy a beautifully designed webpage to celebrate someone special.
